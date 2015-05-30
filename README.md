@@ -27,7 +27,11 @@
    -Oracle Java SDK 
  
   add two modules in your project in Titanium: net.iamyellow.gcmjs and bencoding.android.tools
-
+ 
+ How to install our project:
+ - import both projects into Titanium studio
+ - configure the device model in order to run the code  
+ 
 
 
 -Andorid mobile platform verson 4.1.2
