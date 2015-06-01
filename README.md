@@ -17,7 +17,7 @@
   As a general rule, 4 GB RAM is usually adequate to run the whole Titanium environment. 
 
  
- operation systems:
+ operating systems:
   -for Ubuntu: 12.04 LTS and later
   -for Microsoft: Window 7, Window 8
   -for OS X: 10.9.4 and later (Mavericks) 
@@ -34,7 +34,7 @@
  
 
 
--Andorid mobile platform verson 4.1.2
+-Android mobile platform verson 4.1.2
 
 -Internet Connection
 
